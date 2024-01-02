@@ -1,0 +1,47 @@
+a:link
+
+{
+     color:aquamarine;
+     background-color: aqua;
+     text-decoration: none;
+     text-align: center;
+     font-family: Georgia, 'Times New Roman', Times, serif;
+     padding:   15px;
+}
+
+a:visited
+
+{
+  color:aquamarine;
+  background-color:royalblue;
+  text-decoration: none;
+  text-align: center;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  padding:    15px;
+}
+
+a:hover
+
+{
+  color:lavenderblush;
+  background-color: plum;
+  text-decoration:underline;
+  font-family: 'Times New Roman', Times, serif;
+  padding:     15px;
+}
+
+a:active
+
+{
+    color:lemonchiffon;
+    background-color: azure;
+    text-decoration: none;
+    padding:    15px;
+}
+
+
+h1
+
+{
+    color:purple
+}
